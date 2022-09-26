@@ -1,0 +1,2 @@
+# PluginLobby
+Simple lobby plugin
